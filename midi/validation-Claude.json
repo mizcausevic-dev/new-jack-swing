@@ -1,0 +1,432 @@
+{
+  "checks": [],
+  "errors": [],
+  "files": [
+    {
+      "errors": [],
+      "notes": 222,
+      "path": "midi/k01-block-party/drums-a.mid",
+      "role": "drums",
+      "sha256": "0cd58aad73440d3cc88ae41209ce7563b04c976dab748054973cbd16a2de745d",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 255,
+      "path": "midi/k01-block-party/drums-b.mid",
+      "role": "drums",
+      "sha256": "7200ebdd36db0d10cb7baa5767f9be3e7b39c243650f31c8ceacbcd39da9688f",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 56,
+      "path": "midi/k01-block-party/bass-a.mid",
+      "role": "bass",
+      "sha256": "66281f2420a6f71e4b10e0df998e74579ff5c4aefd21c172b182f188e641e9b0",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 56,
+      "path": "midi/k01-block-party/bass-b.mid",
+      "role": "bass",
+      "sha256": "b60dee502216e1795096e0de64586caaa26400c09836f974b4b7a225c4ac110a",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 192,
+      "path": "midi/k01-block-party/keys-a.mid",
+      "role": "keys",
+      "sha256": "45aadbec7b6add5502240d034cd2c94f4e9aa2637759e348400365a5e85ce62a",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 192,
+      "path": "midi/k01-block-party/keys-b.mid",
+      "role": "keys",
+      "sha256": "67f15d9eb53eeca9c64da5dac4bc63ddbdb029e87bdcc5feffea6f115dd54a57",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 30,
+      "path": "midi/k01-block-party/motif-a.mid",
+      "role": "motif",
+      "sha256": "a52a605205ecf398d63c5b6dda979adee466a4fa8c1ad4746f855baa1b45361e",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 32,
+      "path": "midi/k01-block-party/motif-b.mid",
+      "role": "motif",
+      "sha256": "195292823dcdcf0198981064e9a5876c15c51c0ac44bb11b5b53f5970ec773b6",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 64,
+      "path": "midi/k01-block-party/sequence-a.mid",
+      "role": "sequence",
+      "sha256": "41fe241fe44b0b8df13a9e00ca1918cac1c35cd107217701412cb9ab24267b2e",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 24,
+      "path": "midi/k01-block-party/sequence-b.mid",
+      "role": "sequence",
+      "sha256": "98e7d785668872672307e409a2fbd613cd5d1e4308b495aad9b41527206ea160",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 16,
+      "path": "midi/k01-block-party/pad-a.mid",
+      "role": "pad",
+      "sha256": "8ed80fb4f9e31203256921d9f5b8403241322148abaec4462af2576f465e3880",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 32,
+      "path": "midi/k01-block-party/pad-b.mid",
+      "role": "pad",
+      "sha256": "3a7289a71c21bf007fb8f2cf5eaea30941c374f6c2bd6aa04f4bbbc8f0a76adb",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "path": "midi/k01-block-party/arrangement.mid",
+      "role": "arrangement",
+      "sha256": "23424090b477873221338e27951d0b3502a6778f9e88028da2f1758845d9be40"
+    },
+    {
+      "errors": [],
+      "notes": 222,
+      "path": "midi/k02-chrome-crew/drums-a.mid",
+      "role": "drums",
+      "sha256": "e81a15773e8bee79ce65ff9be81e495715bc2c75e805fe77a195fff64b2ec033",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 255,
+      "path": "midi/k02-chrome-crew/drums-b.mid",
+      "role": "drums",
+      "sha256": "52c0264dc8a24009b2ab9cffef3504cdc16e02b00e863868fa5b1719ed9f7e2e",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 56,
+      "path": "midi/k02-chrome-crew/bass-a.mid",
+      "role": "bass",
+      "sha256": "201b471e0b1ff5747840a6ce0ce2a4ff3ad19bf1e0db60894d2c063ea59b6d4d",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 56,
+      "path": "midi/k02-chrome-crew/bass-b.mid",
+      "role": "bass",
+      "sha256": "c0ea5ea3cade47a85b3953f3514fce2713bb4a5fe3231ee2210be47006261561",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 192,
+      "path": "midi/k02-chrome-crew/keys-a.mid",
+      "role": "keys",
+      "sha256": "34b0341865bd7709c87e20a8fec95ec6d50eb28f10b7899b39b2c1b9d34a81c7",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 192,
+      "path": "midi/k02-chrome-crew/keys-b.mid",
+      "role": "keys",
+      "sha256": "093488388c61e4dd85a34b66d48c4fafd419525f9d16a694949b8425ca39e1a5",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 31,
+      "path": "midi/k02-chrome-crew/motif-a.mid",
+      "role": "motif",
+      "sha256": "dc5f85929d399d6a88ad38a74a1bd2d32956c21c97df753f444078d89b15c5c1",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 37,
+      "path": "midi/k02-chrome-crew/motif-b.mid",
+      "role": "motif",
+      "sha256": "3b2876ccb18f5a5c9c783c01e0e38f95400c99b6984a24241aaa366ef51f8b1c",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 64,
+      "path": "midi/k02-chrome-crew/sequence-a.mid",
+      "role": "sequence",
+      "sha256": "d1efe226ea75e356963ba166f592c566e004ab7f2777159f1cd8f111f5d8b276",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 24,
+      "path": "midi/k02-chrome-crew/sequence-b.mid",
+      "role": "sequence",
+      "sha256": "4b835bb959c227ebdea9a9e71e6312fc67967bf2ac3a75eb0d85a58d644a71c8",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 16,
+      "path": "midi/k02-chrome-crew/pad-a.mid",
+      "role": "pad",
+      "sha256": "a1e4f39339d50a50e01d82e3aca917f5ad5b33268ba53f71f54f82934f7c2044",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 32,
+      "path": "midi/k02-chrome-crew/pad-b.mid",
+      "role": "pad",
+      "sha256": "da841fc1f33a2485788cfea0f67f392a7af595e06e89d92800c9138c0f9dc75c",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "path": "midi/k02-chrome-crew/arrangement.mid",
+      "role": "arrangement",
+      "sha256": "e7a78abf99e7f44852ea91c24ff3ce3fe6e3c5dfdd6f16999793273904794221"
+    },
+    {
+      "errors": [],
+      "notes": 222,
+      "path": "midi/k03-neon-stoop/drums-a.mid",
+      "role": "drums",
+      "sha256": "a1f1a052f7c0b4492c0ad3f58107385a35d3cae44f1481a62f76c975646545bf",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 255,
+      "path": "midi/k03-neon-stoop/drums-b.mid",
+      "role": "drums",
+      "sha256": "e36944c83adff7ada6d6d1cd20a248ce6b3adea0c89b2bd2107addbe5dc665ce",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 56,
+      "path": "midi/k03-neon-stoop/bass-a.mid",
+      "role": "bass",
+      "sha256": "40c31550ec5044c4a537953ad1a9e026fe33eb35fb1590b6b8504773cd86ebff",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 56,
+      "path": "midi/k03-neon-stoop/bass-b.mid",
+      "role": "bass",
+      "sha256": "b3fd38601784d922a60bb82071b3320e782058c276ed648af7320d637c13186a",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 192,
+      "path": "midi/k03-neon-stoop/keys-a.mid",
+      "role": "keys",
+      "sha256": "c77fa82453cc4109168e725845cb2a4e30f71c54a32acfe656c8a3ac466c3fca",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 192,
+      "path": "midi/k03-neon-stoop/keys-b.mid",
+      "role": "keys",
+      "sha256": "c216ac29314472fc6b9f9287532b81da1eb1aae859c1a738fd354eafe6bff9b3",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 30,
+      "path": "midi/k03-neon-stoop/motif-a.mid",
+      "role": "motif",
+      "sha256": "47a44d6391b624f00fc3ceffa5a16c04ea34d7f7bddcb7c5568dc9d68d6a5d76",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 35,
+      "path": "midi/k03-neon-stoop/motif-b.mid",
+      "role": "motif",
+      "sha256": "bdee00dc07dcc84fd0bebdd71c5b8e03547f5a430afeb0be5fb595f9d99d15f3",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 64,
+      "path": "midi/k03-neon-stoop/sequence-a.mid",
+      "role": "sequence",
+      "sha256": "56891102ed84a4eb98f51c34bacb26a62c511e7aad84619e64b19acde358b83c",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 24,
+      "path": "midi/k03-neon-stoop/sequence-b.mid",
+      "role": "sequence",
+      "sha256": "25a56a5f009972b34c57dab54de05a5570ff57337ffb68c8ba26ebaaf9d56c57",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 16,
+      "path": "midi/k03-neon-stoop/pad-a.mid",
+      "role": "pad",
+      "sha256": "2d23c0fff942eec88be84b6a547f8fb09ea5e0a60c50683a1f07e89c3179e9f4",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 32,
+      "path": "midi/k03-neon-stoop/pad-b.mid",
+      "role": "pad",
+      "sha256": "babd2fd71fdb4685ea732846c3ebb073e50fa69d2bf27bc78f9d839ee4225af9",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "path": "midi/k03-neon-stoop/arrangement.mid",
+      "role": "arrangement",
+      "sha256": "e76c091beeb05105a8ee6c5f5b04479eb39d58054c477b3043a202eb2f9bea1b"
+    },
+    {
+      "errors": [],
+      "notes": 222,
+      "path": "midi/k04-late-set/drums-a.mid",
+      "role": "drums",
+      "sha256": "1cebf90a02456f4d8f468f358a421260869bd92bb0c820dbc37e7aceb794ed16",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 255,
+      "path": "midi/k04-late-set/drums-b.mid",
+      "role": "drums",
+      "sha256": "6207e1a7f99facdd70b07d667d8022d5062f74469e296da24b8f66fbca1a5205",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 56,
+      "path": "midi/k04-late-set/bass-a.mid",
+      "role": "bass",
+      "sha256": "90778488473eb51fd7e6dcbc1e930d5441f9c236194851179d9efa465ecc84fd",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 56,
+      "path": "midi/k04-late-set/bass-b.mid",
+      "role": "bass",
+      "sha256": "01ba2c7fbac02b2f743db773e32346f303aaa3dd8eaa7e7513e2667f035d04b7",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 192,
+      "path": "midi/k04-late-set/keys-a.mid",
+      "role": "keys",
+      "sha256": "0f86966f6714c15183446d627d1916dea37afe9dd09e9c8f6137af36aa5ccff3",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 192,
+      "path": "midi/k04-late-set/keys-b.mid",
+      "role": "keys",
+      "sha256": "b3e284187c5cfd41e44d6b1475277cc55a093accb98dc195a21155a04e8e745a",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 29,
+      "path": "midi/k04-late-set/motif-a.mid",
+      "role": "motif",
+      "sha256": "8d023a191cdfe6123bfb08bdf80fd3548ca1e6eb1f104cb05b32e51ba24cf1b8",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 33,
+      "path": "midi/k04-late-set/motif-b.mid",
+      "role": "motif",
+      "sha256": "f355888a67c48bd83634ed98290051eabe7c802474543d27f25188208aeccf53",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 64,
+      "path": "midi/k04-late-set/sequence-a.mid",
+      "role": "sequence",
+      "sha256": "424677fbfd8944bce4608a01f1d905e96fcd45e01b500fa89012f335efcebd8c",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 24,
+      "path": "midi/k04-late-set/sequence-b.mid",
+      "role": "sequence",
+      "sha256": "b70070441565c15965bdedebde3113c41d78a704e64a143708b632c241810694",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "notes": 16,
+      "path": "midi/k04-late-set/pad-a.mid",
+      "role": "pad",
+      "sha256": "45c00e2ea2759aeeebc0d63f887e1349a6aded20db9d3639d1b16e69be75f514",
+      "variation": "a"
+    },
+    {
+      "errors": [],
+      "notes": 32,
+      "path": "midi/k04-late-set/pad-b.mid",
+      "role": "pad",
+      "sha256": "1e9eb0aec0a1c93c0da5953ec684d044bc8f402a015ce07eca605bfe47cf4950",
+      "variation": "b"
+    },
+    {
+      "errors": [],
+      "path": "midi/k04-late-set/arrangement.mid",
+      "role": "arrangement",
+      "sha256": "267db44a641534b01b415a896f584d43da244ced07cab7365cee8976abfdf16d"
+    }
+  ],
+  "negative_control": {
+    "errors": [
+      "polyphony 2 > 1"
+    ],
+    "fixture": "overlapping bass notes, written outside the pack",
+    "rejected": true
+  },
+  "pack": "new-jack-swing",
+  "positive_control": {
+    "accepted": true,
+    "errors": [],
+    "fixture": "two clean bass notes"
+  },
+  "summary": {
+    "errors": 0,
+    "files": 52
+  },
+  "validator": "claude-validate-1.0.0"
+}

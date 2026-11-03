@@ -1,0 +1,57 @@
+{
+  "generator": "generator/art.py",
+  "images": {
+    "art/hero.jpg": {
+      "sha256": "7537eb510e609bc1dc3376266a4127bf5fed633b84390d9ae0d5e55aa275e31c",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    "art/square.jpg": {
+      "sha256": "5d26c231145ab443fcfaa2794e8bf3848fecc47e3e8ab7d93fb0a86b54077d1b",
+      "size": [
+        1080,
+        1080
+      ]
+    },
+    "film/poster.jpg": {
+      "sha256": "ab2f9977b20ebc8a98b370185864d2c0600909c6a1df8f15c3fe543eaae05420",
+      "size": [
+        1280,
+        720
+      ]
+    },
+    "social/instagram-Claude/portrait.jpg": {
+      "sha256": "6d57aeced82ddf22b9308ffb9b49c3365abf73aa6749aa6e88b0d8a0fea6fa7f",
+      "size": [
+        1080,
+        1350
+      ]
+    },
+    "social/instagram-Claude/square.jpg": {
+      "sha256": "5d26c231145ab443fcfaa2794e8bf3848fecc47e3e8ab7d93fb0a86b54077d1b",
+      "size": [
+        1080,
+        1080
+      ]
+    },
+    "social/x-Claude/card.jpg": {
+      "sha256": "59dc8e7262b6300af367830efcc78b03c00813401950e7c5f236b77abadf1188",
+      "size": [
+        1200,
+        675
+      ]
+    }
+  },
+  "note": "Every image is drawn by code from the same scene and palette. No photograph and no external artwork is used.",
+  "palette": [
+    "#1a1a2e",
+    "#ff2e63",
+    "#08d9d6",
+    "#f9ed69",
+    "#ffffff"
+  ],
+  "scene": "memphis",
+  "seed": 3779518
+}
